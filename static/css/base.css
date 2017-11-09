@@ -1,0 +1,35 @@
+body{
+  margin-left: 15px;
+  margin-right: 15px;
+  padding-top: 70px;
+}
+
+.index-featurette{
+  border-bottom: 1px solid #e5e5e5;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  text-align: left;
+}
+.index-featurette-publication{
+  border-bottom: 1px solid #e5e5e5;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  text-align: left;
+}
+
+.lead{
+  margin: 20px;
+}
+
+.big-image{
+  width: 50%;
+  height: 50%;
+}
+
+.carousel{
+  padding-top: 50px;
+}
+
+.pic{
+	float: left;
+}
